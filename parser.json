@@ -1,7 +1,7 @@
 {
+  "semver": false,
   "parser_version": "048fe686cb1fde267243739b8bdbec8fc3a55272",
-  "lang": "solidity",
   "location": null,
-  "url": "https://github.com/JoranHonig/tree-sitter-solidity",
-  "semver": false
+  "lang": "solidity",
+  "url": "https://github.com/JoranHonig/tree-sitter-solidity"
 }
