@@ -1,6 +1,6 @@
 {
-  "lang": "solidity",
-  "url": "https://github.com/JoranHonig/tree-sitter-solidity",
   "semver": false,
-  "parser_version": "048fe686cb1fde267243739b8bdbec8fc3a55272"
+  "parser_version": "048fe686cb1fde267243739b8bdbec8fc3a55272",
+  "lang": "solidity",
+  "url": "https://github.com/JoranHonig/tree-sitter-solidity"
 }
